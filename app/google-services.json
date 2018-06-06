@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1067377887774",
+    "firebase_url": "https://vehicle-live.firebaseio.com",
+    "project_id": "vehicle-live",
+    "storage_bucket": "vehicle-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067377887774:android:dc4ec71925850746",
+        "android_client_info": {
+          "package_name": "com.patelheggere.myvehiclelive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067377887774-j467v52pkvcr1j4ncd6cbfre8i72ea4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQbljyGEIyl5KKwzRufzDwcqa7CPTTdhY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

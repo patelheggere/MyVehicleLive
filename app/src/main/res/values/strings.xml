@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyVehicleLive</string>
+    <string name="vehiclenmberhint">Enter Vehicle number</string>
+</resources>
